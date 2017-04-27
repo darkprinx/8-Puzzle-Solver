@@ -14,6 +14,8 @@ then the user input will be like
 `````````````````
 5 2 3 0 1 8 6 4 7 // here zero represents an empty grid
 `````````````````
+Make sure to take the inputs between 0 to 8. Any types of invalid input will result to ignore the process and ask to give valid input again.
+
 ## Features
 
 * Avoids invalid input
