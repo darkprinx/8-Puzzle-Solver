@@ -12,7 +12,7 @@ At the beginning of the program it will ask to give a puzzle input that needs to
 then the user input will be like 
 
 `````````````````
-5 2 3 0 1 8 6 4 7 
+5 2 3 0 1 8 6 4 7 // here zero represents an empty grid
 `````````````````
 ## Features
 
